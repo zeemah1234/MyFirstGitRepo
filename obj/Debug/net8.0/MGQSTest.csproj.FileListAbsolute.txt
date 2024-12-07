@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Desktop\MGQSTest\bin\Debug\net8.0\MGQSTest.exe
+C:\Users\USER\OneDrive\Desktop\MGQSTest\bin\Debug\net8.0\MGQSTest.deps.json
+C:\Users\USER\OneDrive\Desktop\MGQSTest\bin\Debug\net8.0\MGQSTest.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\MGQSTest\bin\Debug\net8.0\MGQSTest.dll
+C:\Users\USER\OneDrive\Desktop\MGQSTest\bin\Debug\net8.0\MGQSTest.pdb
+C:\Users\USER\OneDrive\Desktop\MGQSTest\obj\Debug\net8.0\MGQSTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\MGQSTest\obj\Debug\net8.0\MGQSTest.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\MGQSTest\obj\Debug\net8.0\MGQSTest.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\MGQSTest\obj\Debug\net8.0\MGQSTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\MGQSTest\obj\Debug\net8.0\MGQSTest.dll
+C:\Users\USER\OneDrive\Desktop\MGQSTest\obj\Debug\net8.0\refint\MGQSTest.dll
+C:\Users\USER\OneDrive\Desktop\MGQSTest\obj\Debug\net8.0\MGQSTest.pdb
+C:\Users\USER\OneDrive\Desktop\MGQSTest\obj\Debug\net8.0\MGQSTest.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\MGQSTest\obj\Debug\net8.0\ref\MGQSTest.dll
